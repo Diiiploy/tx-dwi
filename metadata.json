@@ -1,0 +1,8 @@
+{
+  "name": "Diiiploy Copy of Final Copy of Whitelabel of DWI Classroom Project",
+  "description": "An AI-powered classroom platform for students and administrators. Features include automated attendance, an AI assistant for students, curriculum building tools, and live monitoring for admins.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
