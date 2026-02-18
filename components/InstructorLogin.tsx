@@ -8,7 +8,7 @@ interface InstructorLoginProps {
 }
 
 const InstructorLogin: React.FC<InstructorLoginProps> = ({ setView, onLogin }) => {
-    const [code, setCode] = useState('INST-2025');
+    const [code, setCode] = useState('INST-2026');
     const [error, setError] = useState<string | null>(null);
     const [isLoading, setIsLoading] = useState(false);
 
